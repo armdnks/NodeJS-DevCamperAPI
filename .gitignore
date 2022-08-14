@@ -1,0 +1,13 @@
+# private
+_private/
+
+# node modules
+node_modules/
+
+# env
+config/config.env
+
+# misc
+.vscode/
+.DS_Store
+package-lock.json
